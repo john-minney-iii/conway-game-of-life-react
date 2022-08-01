@@ -1,1 +1,1 @@
-# Conway Game of Life using React
+# Conway Game of Life with React Typescript
